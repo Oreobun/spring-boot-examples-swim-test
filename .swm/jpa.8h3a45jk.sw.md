@@ -72,7 +72,7 @@ This code snippet finds the student with the highest math score, highest English
 
 </SwmSnippet>
 
-&nbsp;
+![](/.swm/images/capture1-2024-5-26-7-11-47-31.PNG)
 
 ```mermaid
 graph TD;
@@ -99,6 +99,8 @@ graph TD;
 %% 
 ```
 
-&nbsp;
+[pivotal link here](pivotal.tracker.com)
+
+<p align="center"><img src="https://media1.giphy.com/media/gVoBC0SuaHStq/giphy.gif?cid=d56c4a8b3sj7ntg4jas2ju9454ae92ygac256iufgyk48avf&amp;ep=v1_gifs_search&amp;rid=giphy.gif&amp;ct=g"></p>
 
 <SwmMeta version="3.0.0" repo-id="Z2l0aHViJTNBJTNBc3ByaW5nLWJvb3QtZXhhbXBsZXMtc3dpbS10ZXN0JTNBJTNBT3Jlb2J1bg==" repo-name="spring-boot-examples-swim-test"><sup>Powered by [Swimm](https://app.swimm.io/)</sup></SwmMeta>
