@@ -74,6 +74,8 @@ This code snippet finds the student with the highest math score, highest English
 
 ![](/.swm/images/capture1-2024-5-26-7-11-47-31.PNG)
 
+![](/.swm/images/capture1-2024-5-26-7-13-17-233.PNG)
+
 ```mermaid
 graph TD;
     A(StudentMain) --> B(CreateStudents);
